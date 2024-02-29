@@ -62,6 +62,10 @@ Step additional (if above steps does not work):
         clone this in working directory
 
 
+Important note: add the following "weights" folder into YOLOX-ROS folder in order to run this repo out of the box.
+
+[Drive link]([https://link-url-here.org](https://drive.google.com/drive/folders/1h4USl24771hBSz2cAFnH-EDg5MkHZDTr?usp=drive_link))
+
 If YOLOX still does not run, make sure you have installed following packages(if not downloaded automatically):
 
             -numpy
