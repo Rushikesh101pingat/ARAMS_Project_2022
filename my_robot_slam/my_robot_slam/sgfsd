@@ -1,0 +1,7 @@
+mymsg.pose.pose.position.x = -0.000746
+    mymsg.pose.pose.position.y = 0.025655
+    mymsg.pose.pose.position.z = 0.0
+    mymsg.pose.pose.orientation.x = 0.0
+    mymsg.pose.pose.orientation.y = 0.0
+    mymsg.pose.pose.orientation.z = 1.579903
+    mymsg.pose.pose.orientation.w = 1.0
